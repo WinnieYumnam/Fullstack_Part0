@@ -1,2 +1,2 @@
 # Fullstack_Part0
-Part0 excercise
+This repository consist of Part0 excercises
